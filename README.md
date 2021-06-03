@@ -1,4 +1,4 @@
-# coc-unlimited-everything -Nonda-
+# coc-unlimited-everything Nonda
 <!DOCTYPE html>
 <html lang="en">
 <head>
