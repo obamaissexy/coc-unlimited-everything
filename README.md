@@ -1,4 +1,4 @@
-# coc-unlimited-everything -Nondda-
+# coc-unlimited-everything -Nonda-
 read title
 
 
