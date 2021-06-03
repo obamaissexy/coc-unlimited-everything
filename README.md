@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
-    <title>Clash of Clans Hack</title>
+    <title>Clash of Clans Hack by Nonda</title>
     <meta name="description" content="">
 
     <link rel="icon" type="image/png" href="img/favicon.png">
