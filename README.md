@@ -1,10 +1,4 @@
 # coc-unlimited-everything -Nonda-
-read title
-
-
-
-
-Not my fault if u get banned
 <!DOCTYPE html>
 <html lang="en">
 <head>
